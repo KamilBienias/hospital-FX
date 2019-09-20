@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hospital manage FX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hospital_manage_FX_jar</output-path>
+    <root id="archive" name="hospital manage FX.jar">
+      <element id="module-output" name="hospital manage FX" />
+    </root>
+  </artifact>
+</component>
